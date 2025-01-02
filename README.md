@@ -414,6 +414,23 @@ const endLoop = ()=>{
 | :--------------------------------------------: |
 ![image](https://github.com/user-attachments/assets/1efa337c-3b08-4b6f-b0eb-afb1cbf19651)
 
+| 메인 화면 |
+| :--------------------------------------------: |
+![image](https://github.com/user-attachments/assets/1cf82390-9936-4108-b85a-af449579b50e)
+
+| 타워 세팅 |
+| :--------------------------------------------: |
+![image](https://github.com/user-attachments/assets/77e73f88-9a02-4309-b56d-439f195048d8)
+
+| 랭킹 조회 |
+| :--------------------------------------------: |
+![image](https://github.com/user-attachments/assets/36377864-3a7e-421b-a173-d273a0fb559a)
+
+| 게임 플레이 |
+| :--------------------------------------------: |
+![image](https://github.com/user-attachments/assets/ee088a7f-b279-4d55-9c3b-b055e922e41c)
+
+
 
 ---
 <br>
