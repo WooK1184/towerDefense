@@ -412,7 +412,7 @@ const endLoop = ()=>{
 ## 🕹️ 게임 화면
 | 시작 화면 |
 | :--------------------------------------------: |
-![image](https://github.com/user-attachments/assets/1efa337c-3b08-4b6f-b0eb-afb1cbf19651)
+![image](https://github.com/user-attachments/assets/50ef9215-82e6-4f5e-b97e-dd6fd0a3ced6)
 
 | 메인 화면 |
 | :--------------------------------------------: |
